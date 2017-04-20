@@ -1,4 +1,4 @@
-# frontier_scraper
+# Frontier Scraper
 
 1. Navigate to the following site: https://www.flyfrontier.com/ways-to-save/online-deals/
 2. Scroll down all the way (click on "Show More", then hit/hold "Enter" key until everything is rendered)
